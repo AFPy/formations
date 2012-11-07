@@ -54,7 +54,7 @@ Liens utiles
 L’**Association Francophone Python** est une association à but non lucratif dont
 les objectifs sont la promotion du langage Python et la création d'une
 communauté autour de  cet outil, dans l'esprit des logiciels libres.  Cette
-association est née en 2000 du regroupement de personnes de la communauté  Python et
+association est née en 2004 du regroupement de personnes de la communauté  Python et
 Zope francophone. Elle a pour vocation de s'adresser à tous les utilisateurs
 francophones.
 
