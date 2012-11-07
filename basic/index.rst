@@ -8,13 +8,13 @@ Les bases de python
 
 Python est un language **de script** mature.
 
-Deux versions stable mais "incompatible"
+Deux versions stable mais "incompatibles"
 
 
-L'interpreteur
+L'interpréteur
 ===============
 
-L'interpreteur python permet de:
+L'interpréteur python permet de:
 
 Taper du code en direct::
 
@@ -26,14 +26,14 @@ Interpréter un script::
 
     $ python hello_world.py
 
-Interpreter une ligne de commande::
+Interpréter une ligne de commande::
 
     $ python -c "print('Hello world')"
 
 Un premier programme
 ====================
 
-Ce programme s'assure qu'il est le module principale et affiche Hello world!
+Ce programme s'assure qu'il est le module principal et affiche Hello world!
 
 .. literalinclude:: hello_world.py
 
@@ -45,7 +45,7 @@ Types
 Tout est objet!!
 =================
 
-Tout variable a des propriétés et méthodes::
+Toute variable a des propriétés et méthodes::
 
     >>> 'a'.upper()
     'A'
@@ -57,9 +57,9 @@ Pour connaitre les attributs d'une variable::
 Modules et fonctions
 ====================
 
-Utilisation de modules réutilisable (stdlib/pypi/diy)
+Utilisation de modules réutilisables (stdlib/pypi/diy)
 
-Et de functions (routines réutilisable)
+Et de fonctions (routines réutilisables)
 
 .. literalinclude:: function.py
 
@@ -67,6 +67,6 @@ Et de functions (routines réutilisable)
 Classes
 =======
 
-Permet de définir un objet ayant un comportement que l'on lui assigne
+Permet de définir un objet ayant un comportement qu' on lui assigne
 
 .. literalinclude:: classes.py
