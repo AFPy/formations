@@ -11,7 +11,8 @@ Pré-requis:
 
 - Savoir se repérer dans son disque dur
 
-- Savoir se servir d'un éditeur de texte
+- Savoir se servir d'un vrai éditeur de texte: gedit/vim/emacs/etc. (**pas de
+  traitement de texte!!** M$ Word/Libre Office))
 
 - Si possible, avoir python 2.x installé sur son système. Préférer un
   linux/unix ou python est installé par défaut. Un binaire est disponible pour
