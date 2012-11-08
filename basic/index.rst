@@ -8,7 +8,7 @@ Les bases de python
 
 Python est un language **de script** mature.
 
-Deux versions stable mais "incompatibles"
+Deux versions stables mais "incompatibles"
 
 
 L'interpréteur
