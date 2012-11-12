@@ -10,6 +10,7 @@ Python est un language **de script** mature.
 
 Deux versions stable mais "incompatibles"
 
+http://docs.python.org
 
 L'interpréteur
 ===============
@@ -42,17 +43,54 @@ Types
 
 .. literalinclude:: py_types.py
 
-Tout est objet!!
-=================
+Condition (1/2)
+===============
 
-Toute variable a des propriétés et méthodes::
+Si::
 
-    >>> 'a'.upper()
-    'A'
+  >>> if x == 1:
+  ...     print('foo')
 
-Pour connaitre les attributs d'une variable::
+Si / Sinon::
 
-    >>> dir('a')
+  >>> if x != 1:
+  ...     print('foo')
+  ... else:
+  ...     print('bar')
+
+Condition (2/2)
+===============
+
+Si / Alors / Sinon::
+
+  >>> if x > 3:
+  ...     print('foo')
+  ... elif x == 1:
+  ...     print('bar')
+  ... else:
+  ...     print('babar')
+
+Boucles
+=======
+
+Boucle for. Itère sur une liste::
+
+  >>> for i in [1, 2, 3]
+  ...     print i
+
+Boucle while. (Tant que)::
+
+  >>> x = 10
+  >>> while x:
+  ...     x = x - 1
+
+Liste compréhension
+====================
+
+Boucle en une ligne. Renvoie une liste::
+
+  >>> x = [a for a in [1, 2, 3]]
+  >>> x = [a for a in x if a == 2]
 
 Modules et fonctions
 ====================
@@ -70,3 +108,16 @@ Classes
 Permet de définir un objet ayant un comportement qu' on lui assigne
 
 .. literalinclude:: classes.py
+
+Tout est objet!!
+=================
+
+Toute variable a des propriétés et méthodes::
+
+    >>> 'a'.upper()
+    'A'
+
+Pour connaitre les attributs d'une variable::
+
+    >>> dir('a')
+
