@@ -14,3 +14,7 @@ t = (1, 2, 'a')
 
 # set
 s = set([1, 1])
+
+# dictionnaire
+d = {'clef': 'valeur',
+     'autre_clef': 'valeur'}

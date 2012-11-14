@@ -70,13 +70,19 @@ Si / Alors / Sinon::
   ... else:
   ...     print('babar')
 
+  >>> if x > 3 and y < 2:
+  ...    print('yeah')
+
+  >>> if 3 < x < 5:
+  ...    print('bar')
+
 Boucles
 =======
 
 Boucle for. Itère sur une liste::
 
-  >>> for i in [1, 2, 3]
-  ...     print i
+  >>> for i in [1, 2, 3]:
+  ...     print(i)
 
 Boucle while. (Tant que)::
 
@@ -91,6 +97,8 @@ Boucle en une ligne. Renvoie une liste::
 
   >>> x = [a for a in [1, 2, 3]]
   >>> x = [a for a in x if a == 2]
+  >>> x = [a for a in range(0, 21) if a % 2 == 0]
+  >>> x = [a * 2 for a in range(0, 11)]
 
 Modules et fonctions
 ====================

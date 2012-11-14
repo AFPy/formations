@@ -7,4 +7,4 @@ class Voiture(object):
         return 'Ma voiture de marque %s roule' % self.marque
 
 la_valeureuse = Voiture('Citroen')
-print la_valeureuse.roule()
+print(la_valeureuse.roule())
