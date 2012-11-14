@@ -7,3 +7,7 @@ Usage::
     $ pip install impress
     $ impress -i basic/index.rst
     $ firefox html/index.html
+
+Compiled slides:
+
+    http://afpy.github.com/formations/basic/index.html
