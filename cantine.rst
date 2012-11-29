@@ -4,34 +4,35 @@ Vous apprendrez bien un peu Python ?
 L'APFy vous propose de venir découvrir son univers fantastique !
 
 Au travers d'un atelier pratique et vivant, venez découvrir les joies de la
-programation en language Python !
+programmation en langage Python !
 
-Python est un langage simple et proche de l'algorithmie. Idéal pour débuter en
+Python est un langage simple et proche de l'algorithmique. Idéal pour débuter en
 programmation !
 
 Pré-requis :
 
 - Savoir se repérer dans son disque dur
 
-- Savoir se servir d'un vrai éditeur de texte: gedit/vim/emacs/etc. (**pas de
-  traitement de texte!!** M$ Word/Libre Office))
+- Savoir se servir d'un éditeur de texte: gedit/vim/emacs/sublim text/etc. (et
+  non traitement de texte comme Microsoft Word ou Libre Office)
 
-- Venir avec un ordinateur (Linux, Mac, Windows)
+- Venir avec un ordinateur
 
 - Si possible, avoir Python 2.x installé sur son système. Si vous êtes sous Linux
   ou Mac OS X, c'est déjà fait car Python est installé par défaut ! Si vous êtes
   sous Windows, un installeur est disponible ici :
   http://python.org/download/releases/2.7.3/
+  Si vous êtes sous autre chose vous savez probablement installer python dessus.
 
 NB : cet atelier s'adresse aux débutants en programmation.
 
 À propos de Python
 ==================
 
-Python est un langage de programmation. Il favorise la programmation
-impérative structurée, et orientée objet. Il est doté d'un typage dynamique
-fort, d'une gestion automatique de la mémoire par ramasse-miettes et d'un
-système de gestion d'exceptions.
+Python est un langage de programmation généraliste et de haut niveau. Il
+favorise la programmation impérative structurée, et orientée objet. Il est doté
+d'un typage dynamique fort, d'une gestion automatique de la mémoire par
+ramasse-miettes et d'un système de gestion d'exceptions.
 
 Le langage Python est placé sous une licence libre proche de la licence BSD et
 fonctionne sur la plupart des plates-formes informatiques, des
