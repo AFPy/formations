@@ -1,7 +1,7 @@
 Vous apprendrez bien un peu Python ?
 ====================================
 
-L'APFy vous propose de venir découvrir son univers fantastique !
+L'AFPy vous propose de venir découvrir son univers fantastique !
 
 Au travers d'un atelier pratique et vivant, venez découvrir les joies de la
 programmation en langage Python !
