@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="cours.svg"
-   inkscape:export-filename="/home/amirouche/Images/cours-python-5.png"
+   sodipodi:docname="affiche.svg"
+   inkscape:export-filename="/home/amirouche/Images/cours-python-7.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -217,7 +217,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="869.4373"
-     inkscape:cy="298.3267"
+     inkscape:cy="540.76331"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -311,16 +311,16 @@
       <text
          sodipodi:linespacing="125%"
          id="text3133"
-         y="-259.7002"
+         y="-233.92355"
          x="71.512672"
          style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AtariSmallBold;-inkscape-font-specification:AtariSmallBold Bold"
          xml:space="preserve"><tspan
-           y="-259.7002"
+           y="-233.92355"
            x="71.512672"
            id="tspan3135"
            sodipodi:role="line">Formation Python</tspan></text>
       <flowRoot
-         transform="translate(343.6171,-440.45914)"
+         transform="translate(295.12978,-454.60128)"
          style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
          id="flowRoot3157"
          xml:space="preserve"><flowRegion
@@ -328,16 +328,18 @@
              style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
              y="0.26400322"
              x="-349.55185"
-             height="122.3543"
-             width="1138.5808"
+             height="182.96346"
+             width="1053.728"
              id="rect3161" /></flowRegion><flowPara
-           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-           id="flowPara3163">13 décembre à la Cantine 19h00</flowPara></flowRoot>    </g>
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           id="flowPara3227">13 décembre à la Cantine 19h00</flowPara><flowPara
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           id="flowPara3234">151 rue Montmartre, Passage des Panoramas 75002 Paris</flowPara></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3361"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-       transform="translate(0,-827.76597)"><flowRegion
+       transform="translate(0,-805.76597)"><flowRegion
          id="flowRegion3363"><rect
            id="rect3365"
            width="1014.1932"
@@ -348,11 +350,11 @@
          id="flowPara3367"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">Vous apprendrez bien un peu Python ?</flowPara><flowPara
          id="flowPara3369"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">L'APFy vous propose de venir découvrir son univers fantastique !</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">L'APFy vous propose de découvrir son univers fantastique !</flowPara><flowPara
          id="flowPara3371"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /><flowPara
          id="flowPara3373"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">Au travers d'un atelier pratique et vivant, venez découvrir les joies de la programmation en language Python ! Python est un langage simple et proche de l'algorithmie. Idéal pour débuter en programmation !</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">Au travers d'un atelier pratique et vivant, venez découvrir les joies de la programmation en langage Python. Python est un langage simple et Idéal pour débuter en programmation !</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
          id="flowPara3411" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
@@ -360,25 +362,35 @@
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
          id="flowPara3415">- Savoir se repérer dans son disque dur</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-         id="flowPara3417">- Savoir se servir d'un vrai éditeur de texte: gedit/vim/emacs/etc. (pas de traitement de texte!! M$ Word/Libre Office))</flowPara><flowPara
+         id="flowPara3417">- Savoir se servir d'un vrai éditeur de texte: gedit/vim/emacs/etc. (pas de traitement de texte!)</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
          id="flowPara3419">- Venir avec un ordinateur (Linux, Mac, Windows)</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-         id="flowPara3421">- Si possible, avoir Python 2.x installé sur son système. Si vous êtes sous Linux ou Mac OS X, c'est déjà fait car Python est installé par défaut ! Si vous êtes sous Windows, un installeur est disponible ici : http://python.org/download/releases/2.7.3/</flowPara><flowPara
+         id="flowPara3421">- Si possible, avoir Python 2.x installé sur son système. Si vous êtes sous Linux ou Mac OS X, c'est déjà fait car Python est installé par défaut. Si vous êtes sous Windows, un installeur est disponible à l'adresse suivante:</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#0000ff"
+         id="flowPara3236">http://python.org/download/releases/2.7.3/</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
          id="flowPara3423" /><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-         id="flowPara3187">Inscrivez vite vous sur le site de la cantine, il n'y a que 15 places:</flowPara><flowPara
+         id="flowPara3187"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3242">Inscrivez vite vous</flowSpan> sur le site de la cantine, <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3244">il n'y a que 15 places</flowSpan>:</flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-         id="flowPara3241">- http://goo.gl/ovYuh</flowPara><flowPara
+         id="flowPara3241">- <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan3248">http://goo.gl/ovYuh</flowSpan></flowPara><flowPara
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-         id="flowPara3104">- http://lacantine.org/events/vous-apprendrez-bien-un-peu-python-2</flowPara><flowPara
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3104">- <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan3246">http://lacantine.org/events/vous-apprendrez-bien-un-peu-python-2</flowSpan></flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;text-anchor:middle;text-align:center"
          id="flowPara3504">NB: cet atelier s'adresse aux débutants en programmation.</flowPara><flowPara
          id="flowPara3393"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /></flowRoot>    <g
        id="g3191"
-       transform="translate(0,-52.98915)">
+       transform="translate(0,-24.98915)">
       <g
          transform="matrix(3.415339,0,0,3.415339,293.73237,-151.80253)"
          id="g3351">
@@ -455,20 +467,7 @@
        y="946.47205"
        x="948.73682"
        id="image3184"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAA3NCSVQICAjb4U/gAAACeklEQVR4
-nO2c0W4DIQwEc1X//5fTNxSJyPXY5qJWM49RA2S1W8Bwdz2fz4fk+Pr0AP4SigVQLIBiARQL8L1/
-dF1Xp8V9es00mPkW+pvxX/HQWQjFAryJ4QKtV3fbr0+molELXfNXvKKzAIoFiGK4aJp8z2OtiyDp
-GfpR1VkAxQKkYtikOWdNzXR9dBZAsQB3xLCZvsyWMDPh9tFZAMUCpGI47u2p9E11mkRnARQLEMWw
-aftFZnOHgjm1JaToLIBiAd7EcGrumyqQLlAeT6xOdRZAsQBXs9RZOxOsgYZR+ycQD1VnARQLkDq+
-D8xZi1gmULWWg/Rlghn3rrMAigVILUprh3qowrlz7jJP7XDkobMQigV4syidmqqCrdyJjPxKZhgx
-OgugWAB2bohqI81ABWEZP8tIBlNnARQLEC1KM0FoTnBTC2A0sPK3dBZAsQBRpTRT5ThRkPx1GEGD
-mZVwubqrswCKBUjtDWubKVSrRH1N3U11b3gQxQKw2XDRDNTU5ZnaU4pldBZAsQDFq93NfV9zI4lm
-QxRn94ZjKBaAPX3fvJKNVp7j7fSfwtBZAMUCsMtsC1QAubOw09yQxn3pLIBiAaISzc4NZ+sZbnhb
-jjHsoliA1GxYbHq6ojJeX6VbVJ0FUCzAHW9mC7o4V+qsFWNjdBZAsQAH38xWY/zKTaav5OB1FkCx
-AAffzIaesJh6krd2QyaZR50FUCzAZ14JNTXlBQTJKl8T0lkAxQIcjOG5Z5eaBx+o5Vd0FkCxAAff
-zJapQ07VT/Y8nqgC6SyAYgHueDPbAj0HsQ8D/TdoXidwNuyiWICD54b/D50FUCyAYgEUC6BYAMUC
-/AD1HBbRH9QJ+gAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAA3NCSVQICAjb4U/gAAACeklEQVR4 nO2c0W4DIQwEc1X//5fTNxSJyPXY5qJWM49RA2S1W8Bwdz2fz4fk+Pr0AP4SigVQLIBiARQL8L1/ dF1Xp8V9es00mPkW+pvxX/HQWQjFAryJ4QKtV3fbr0+molELXfNXvKKzAIoFiGK4aJp8z2OtiyDp GfpR1VkAxQKkYtikOWdNzXR9dBZAsQB3xLCZvsyWMDPh9tFZAMUCpGI47u2p9E11mkRnARQLEMWw aftFZnOHgjm1JaToLIBiAd7EcGrumyqQLlAeT6xOdRZAsQBXs9RZOxOsgYZR+ycQD1VnARQLkDq+ D8xZi1gmULWWg/Rlghn3rrMAigVILUprh3qowrlz7jJP7XDkobMQigV4syidmqqCrdyJjPxKZhgx OgugWAB2bohqI81ABWEZP8tIBlNnARQLEC1KM0FoTnBTC2A0sPK3dBZAsQBRpTRT5ThRkPx1GEGD mZVwubqrswCKBUjtDWubKVSrRH1N3U11b3gQxQKw2XDRDNTU5ZnaU4pldBZAsQDFq93NfV9zI4lm QxRn94ZjKBaAPX3fvJKNVp7j7fSfwtBZAMUCsMtsC1QAubOw09yQxn3pLIBiAaISzc4NZ+sZbnhb jjHsoliA1GxYbHq6ojJeX6VbVJ0FUCzAHW9mC7o4V+qsFWNjdBZAsQAH38xWY/zKTaav5OB1FkCx AAffzIaesJh6krd2QyaZR50FUCzAZ14JNTXlBQTJKl8T0lkAxQIcjOG5Z5eaBx+o5Vd0FkCxAAff zJapQ07VT/Y8nqgC6SyAYgHueDPbAj0HsQ8D/TdoXidwNuyiWICD54b/D50FUCyAYgEUC6BYAMUC /AD1HBbRH9QJ+gAAAABJRU5ErkJggg== "
        height="100"
        width="100" />
   </g>
