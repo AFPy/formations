@@ -2,6 +2,8 @@
 Les bases de python
 =======================
 
+http://github.com/AFPy/formations/
+
 
 2 vs 3
 ======
