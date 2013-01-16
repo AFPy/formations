@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="affiche.svg"
+   inkscape:export-filename="/home/amirouche/Images/cours-python-7.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.177966,0,108.7434)"
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       id="radialGradient2801"
+       xlink:href="#linearGradient2795"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="76.176224"
+       x1="172.94208"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2258"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2255"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2250"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2248"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2589"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2587"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2990"
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208" />
+    <linearGradient
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2987"
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         id="stop4691"
+         offset="0"
+         style="stop-color:#5a9fd4;stop-opacity:1;" />
+      <stop
+         id="stop4693"
+         offset="1"
+         style="stop-color:#306998;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         id="stop4673"
+         offset="0"
+         style="stop-color:#ffd43b;stop-opacity:1;" />
+      <stop
+         id="stop4675"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3236">
+      <stop
+         id="stop3244"
+         offset="0"
+         style="stop-color:#f4f4f4;stop-opacity:1" />
+      <stop
+         id="stop3240"
+         offset="1"
+         style="stop-color:white;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3676">
+      <stop
+         id="stop3678"
+         offset="0"
+         style="stop-color:#b2b2b2;stop-opacity:0.5;" />
+      <stop
+         id="stop3680"
+         offset="1"
+         style="stop-color:#b3b3b3;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2787">
+      <stop
+         id="stop2789"
+         offset="0"
+         style="stop-color:#7f7f7f;stop-opacity:0.5;" />
+      <stop
+         id="stop2791"
+         offset="1"
+         style="stop-color:#7f7f7f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2795">
+      <stop
+         id="stop2797"
+         offset="0"
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;" />
+      <stop
+         id="stop2799"
+         offset="1"
+         style="stop-color:#7f7f7f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient3215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient3217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2795"
+       id="radialGradient3219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       cx="61.518883"
+       cy="132.28575"
+       fx="61.518883"
+       fy="132.28575"
+       r="29.036913" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="869.4373"
+     inkscape:cy="540.76331"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="870"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-84.852813,1137.4318"
+       id="guide3490" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.82679)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3359"
+       width="1058.1917"
+       height="1502.3541"
+       x="0.34662062"
+       y="-445.41919" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Troll Bait;-inkscape-font-specification:Troll Bait"
+       x="20.203051"
+       y="-373.97321"
+       id="text3137"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3139"
+         x="20.203051"
+         y="-373.97321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3141"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Troll Bait;font-style:normal;font-weight:normal;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Troll Bait;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3143"><rect
+           id="rect3145"
+           width="1020.2541"
+           height="1410.173"
+           x="18.182745"
+           y="59.833267" /></flowRegion><flowPara
+         id="flowPara3147" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3149"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Troll Bait;font-style:normal;font-weight:normal;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Troll Bait;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3151"><rect
+           id="rect3153"
+           width="569.72601"
+           height="395.9798"
+           x="18.182745"
+           y="65.89418" /></flowRegion><flowPara
+         id="flowPara3155" /></flowRoot>    <flowRoot
+       transform="translate(-2.0203051,-189.34957)"
+       style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic"
+       id="flowRoot3165"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3167"><rect
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic"
+           y="17.40686"
+           x="16.162441"
+           height="737.41144"
+           width="1026.3151"
+           id="rect3169" /></flowRegion><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic"
+         id="flowPara3171" /></flowRoot>    <g
+       id="g3319"
+       inkscape:export-filename="/home/amirouche/Images/cours-python.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(44.446712,12.12183)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3133"
+         y="-233.92355"
+         x="71.512672"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AtariSmallBold;-inkscape-font-specification:AtariSmallBold Bold"
+         xml:space="preserve"><tspan
+           y="-233.92355"
+           x="71.512672"
+           id="tspan3135"
+           sodipodi:role="line">Formation Python</tspan></text>
+      <flowRoot
+         transform="translate(295.12978,-454.60128)"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowRoot3157"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3159"><rect
+             style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+             y="0.26400322"
+             x="-349.55185"
+             height="182.96346"
+             width="1053.728"
+             id="rect3161" /></flowRegion><flowPara
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           id="flowPara3227">13 décembre à la Cantine 19h00</flowPara><flowPara
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+           id="flowPara3234">151 rue Montmartre, Passage des Panoramas 75002 Paris</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3361"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       transform="translate(0,-805.76597)"><flowRegion
+         id="flowRegion3363"><rect
+           id="rect3365"
+           width="1014.1932"
+           height="781.85803"
+           x="20.203051"
+           y="1094.2295"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /></flowRegion><flowPara
+         id="flowPara3367"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">Vous apprendrez bien un peu Python ?</flowPara><flowPara
+         id="flowPara3369"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">L'APFy vous propose de découvrir son univers fantastique !</flowPara><flowPara
+         id="flowPara3371"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /><flowPara
+         id="flowPara3373"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">Au travers d'un atelier pratique et vivant, venez découvrir les joies de la programmation en langage Python. Python est un langage simple et Idéal pour débuter en programmation !</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3411" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3413">Pré-requis :</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3415">- Savoir se repérer dans son disque dur</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3417">- Savoir se servir d'un vrai éditeur de texte: gedit/vim/emacs/etc. (pas de traitement de texte!)</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3419">- Venir avec un ordinateur (Linux, Mac, Windows)</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3421">- Si possible, avoir Python 2.x installé sur son système. Si vous êtes sous Linux ou Mac OS X, c'est déjà fait car Python est installé par défaut. Si vous êtes sous Windows, un installeur est disponible à l'adresse suivante:</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#0000ff"
+         id="flowPara3236">http://python.org/download/releases/2.7.3/</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3423" /><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3187"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3242">Inscrivez vite vous</flowSpan> sur le site de la cantine, <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3244">il n'y a que 15 places</flowSpan>:</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3241">- <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan3248">http://goo.gl/ovYuh</flowSpan></flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         id="flowPara3104">- <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan3246">http://lacantine.org/events/vous-apprendrez-bien-un-peu-python-2</flowSpan></flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;text-anchor:middle;text-align:center"
+         id="flowPara3504">NB: cet atelier s'adresse aux débutants en programmation.</flowPara><flowPara
+         id="flowPara3393"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /></flowRoot>    <g
+       id="g3191"
+       transform="translate(0,-24.98915)">
+      <g
+         transform="matrix(3.415339,0,0,3.415339,293.73237,-151.80253)"
+         id="g3351">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3215);fill-opacity:1"
+           d="m 60.510156,6.3979729 c -4.583653,0.021298 -8.960939,0.4122177 -12.8125,1.09375 C 36.35144,9.4962267 34.291407,13.691825 34.291406,21.429223 l 0,10.21875 26.8125,0 0,3.40625 -26.8125,0 -10.0625,0 c -7.792459,0 -14.6157592,4.683717 -16.7500002,13.59375 -2.46182,10.212966 -2.5710151,16.586023 0,27.25 1.9059283,7.937852 6.4575432,13.593748 14.2500002,13.59375 l 9.21875,0 0,-12.25 c 0,-8.849902 7.657144,-16.656248 16.75,-16.65625 l 26.78125,0 c 7.454951,0 13.406253,-6.138164 13.40625,-13.625 l 0,-25.53125 c 0,-7.266339 -6.12998,-12.7247775 -13.40625,-13.9375001 -4.605987,-0.7667253 -9.385097,-1.1150483 -13.96875,-1.09375 z m -14.5,8.2187501 c 2.769547,0 5.03125,2.298646 5.03125,5.125 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -1e-6,-2.826353 2.251774,-5.125 5.03125,-5.125 z"
+           id="path1948" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3217);fill-opacity:1"
+           d="m 91.228906,35.054223 0,11.90625 c 0,9.230755 -7.825895,16.999999 -16.75,17 l -26.78125,0 c -7.335833,0 -13.406249,6.278483 -13.40625,13.625 l 0,25.531247 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626237,2.94663 26.78125,0 6.750155,-1.95439 13.406253,-5.88761 13.40625,-13.625 l 0,-10.218747 -26.78125,0 0,-3.40625 26.78125,0 13.406254,0 c 7.79246,0 10.69625,-5.435408 13.40624,-13.59375 2.79933,-8.398886 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.40624,-13.59375 l -10.062504,0 z m -15.0625,64.65625 c 2.779478,3e-6 5.03125,2.277417 5.03125,5.093747 -2e-6,2.82635 -2.251775,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 2e-6,-2.81633 2.261697,-5.093747 5.03125,-5.093747 z"
+           id="path1950" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:0.44382025;fill:url(#radialGradient3219);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path1894"
+           sodipodi:cx="61.518883"
+           sodipodi:cy="132.28575"
+           sodipodi:rx="48.948284"
+           sodipodi:ry="8.6066771"
+           d="m 110.46717,132.28575 c 0,4.75334 -21.914896,8.60668 -48.948287,8.60668 -27.033391,0 -48.948284,-3.85334 -48.948284,-8.60668 0,-4.75334 21.914893,-8.60668 48.948284,-8.60668 27.033391,0 48.948287,3.85334 48.948287,8.60668 z"
+           transform="matrix(0.73406,0,0,0.809524,16.24958,27.00935)" />
+      </g>
+      <flowRoot
+         transform="translate(9.6445332,-150.47588)"
+         style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic"
+         id="flowRoot3279"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3281"><rect
+             ry="0"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic"
+             y="17.40686"
+             x="16.162441"
+             height="1142.2283"
+             width="386.05963"
+             id="rect3283" /></flowRegion><flowPara
+           id="flowPara3184"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">programmation</flowPara><flowPara
+           id="flowPara3446"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">INTERNET</flowPara><flowPara
+           id="flowPara3196"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">FREE Software</flowPara><flowPara
+           id="flowPara3448"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">OPEN SOURCE</flowPara><flowPara
+           id="flowPara3204"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">ROBOTS</flowPara><flowPara
+           id="flowPara3492"
+           style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage Bold Italic">OBJETS CONNECTES</flowPara></flowRoot>      <flowRoot
+         transform="translate(-36.365492,-429.28838)"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#999999;fill-opacity:1;stroke:none;font-family:Troll Bait;-inkscape-font-specification:Troll Bait"
+         id="flowRoot3468"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3470"><rect
+             style="text-align:end;text-anchor:end;fill:#999999"
+             y="296.20898"
+             x="715.18799"
+             height="363.65488"
+             width="355.5737"
+             id="rect3472" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage"
+           id="flowPara3478">algorithmes</flowPara><flowPara
+           id="flowPara3496"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage">fonctions</flowPara><flowPara
+           id="flowPara3498"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage">objets classes 3D BASE DE DONNEES RESEAU</flowPara><flowPara
+           id="flowPara3500"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage">ET PLUS ENCORE...</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage"
+           id="flowPara3480" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#999999;font-family:Wild Sewerage;-inkscape-font-specification:Wild Sewerage"
+           id="flowPara3482" /></flowRoot>    </g>
+    <image
+       y="946.47205"
+       x="948.73682"
+       id="image3184"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAA3NCSVQICAjb4U/gAAACeklEQVR4 nO2c0W4DIQwEc1X//5fTNxSJyPXY5qJWM49RA2S1W8Bwdz2fz4fk+Pr0AP4SigVQLIBiARQL8L1/ dF1Xp8V9es00mPkW+pvxX/HQWQjFAryJ4QKtV3fbr0+molELXfNXvKKzAIoFiGK4aJp8z2OtiyDp GfpR1VkAxQKkYtikOWdNzXR9dBZAsQB3xLCZvsyWMDPh9tFZAMUCpGI47u2p9E11mkRnARQLEMWw aftFZnOHgjm1JaToLIBiAd7EcGrumyqQLlAeT6xOdRZAsQBXs9RZOxOsgYZR+ycQD1VnARQLkDq+ D8xZi1gmULWWg/Rlghn3rrMAigVILUprh3qowrlz7jJP7XDkobMQigV4syidmqqCrdyJjPxKZhgx OgugWAB2bohqI81ABWEZP8tIBlNnARQLEC1KM0FoTnBTC2A0sPK3dBZAsQBRpTRT5ThRkPx1GEGD mZVwubqrswCKBUjtDWubKVSrRH1N3U11b3gQxQKw2XDRDNTU5ZnaU4pldBZAsQDFq93NfV9zI4lm QxRn94ZjKBaAPX3fvJKNVp7j7fSfwtBZAMUCsMtsC1QAubOw09yQxn3pLIBiAaISzc4NZ+sZbnhb jjHsoliA1GxYbHq6ojJeX6VbVJ0FUCzAHW9mC7o4V+qsFWNjdBZAsQAH38xWY/zKTaav5OB1FkCx AAffzIaesJh6krd2QyaZR50FUCzAZ14JNTXlBQTJKl8T0lkAxQIcjOG5Z5eaBx+o5Vd0FkCxAAff zJapQ07VT/Y8nqgC6SyAYgHueDPbAj0HsQ8D/TdoXidwNuyiWICD54b/D50FUCyAYgEUC6BYAMUC /AD1HBbRH9QJ+gAAAABJRU5ErkJggg== "
+       height="100"
+       width="100" />
+  </g>
+</svg>
