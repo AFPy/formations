@@ -11,3 +11,15 @@ Usage::
 Compiled slides:
 
     http://afpy.github.com/formations/basic/index.html
+
+Usefull links:
+
+    http://docs.python.org/
+
+    http://afpy.org
+
+    http://afpy.org/planet (`RSS <http://www.afpy.org/planet/rss.xml>`_)
+
+    http://twitter.com/alain_afpy
+
+    https://twitter.com/gawel_/afpy
