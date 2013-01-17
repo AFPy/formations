@@ -23,3 +23,9 @@ Usefull links:
     http://twitter.com/alain_afpy
 
     https://twitter.com/gawel_/afpy
+
+Irc:
+
+    irc://irc.freenode.net/python-fr
+
+    irc://irc.freenode.net/afpy
