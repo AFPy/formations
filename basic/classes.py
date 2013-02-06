@@ -1,10 +1,14 @@
-class Voiture(object):
+class Personnage(object):
 
-    def __init__(self, marque):
-        self.marque = marque
+    def __init__(self, type, force):
+        self.type = type
+        self.force = force
 
-    def roule(self):
-        return 'Ma voiture de marque %s roule' % self.marque
+    def attaque(self):
+        print("je suis un %s et je tape avec une force de %s" % (self.type, self.force))
 
-la_valeureuse = Voiture('Citroen')
-print(la_valeureuse.roule())
+merlin = Personnage('Magicien', 2)
+merlin.attaque()
+
+denver = Personnage('dino', 3)
+denver.attaque()
