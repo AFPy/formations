@@ -8,9 +8,12 @@ http://github.com/AFPy/formations/
 2 vs 3
 ======
 
-Python est un language **de script** mature.
+Python est un language **de programmation** mature.
 
-Deux versions stables mais "incompatibles"
+Deux versions stables mais à peu près "incompatibles":
+
+* 2.x : Utilisées "en production" un peu partout;
+* 3.x : Version en cours de développement
 
 http://docs.python.org
 
@@ -36,9 +39,10 @@ Interpréter une ligne de commande::
 Un premier programme
 ====================
 
-Ce programme s'assure qu'il est le module principal et affiche Hello world!
+Ce programme affiche Hello world!::
 
-.. literalinclude:: hello_world.py
+    print('Hello world!')
+
 
 Types
 =====
@@ -130,4 +134,3 @@ Toute variable a des propriétés et méthodes::
 Pour connaitre les attributs d'une variable::
 
     >>> dir('a')
-

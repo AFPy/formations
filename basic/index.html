@@ -26,9 +26,15 @@ http://github.com/AFPy/formations/</a></p>
 2 vs 3<a class="headerlink" href="#vs-3" title="Permalink to this headline">¶</a></h1>
 <p>
 Python est un language <strong>
-de script</strong> mature.</p>
+de programmation</strong> mature.</p>
 <p>
-Deux versions stables mais &#8220;incompatibles&#8221;</p>
+Deux versions stables mais à peu près &#8220;incompatibles&#8221;:</p>
+<ul class="simple">
+<li>
+2.x : Utilisées &#8220;en production&#8221; un peu partout;</li>
+<li>
+3.x : Version en cours de développement</li>
+</ul>
 <p>
 <a class="reference external" href="http://docs.python.org">
 http://docs.python.org</a></p>
@@ -60,12 +66,9 @@ Interpréter une ligne de commande:</p>
 <h1>
 Un premier programme<a class="headerlink" href="#un-premier-programme" title="Permalink to this headline">¶</a></h1>
 <p>
-Ce programme s&#8217;assure qu&#8217;il est le module principal et affiche Hello world!</p>
+Ce programme affiche Hello world!:</p>
 <div class="highlight-python">
-<div class="highlight"><pre><span class="c"># -*- coding: utf-8 -*-</span>
-
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
-    <span class="k">print</span><span class="p">(</span><span class="s">&#39;Hello world!&#39;</span><span class="p">)</span>
+<div class="highlight"><pre><span class="k">print</span><span class="p">(</span><span class="s">&#39;Hello world!&#39;</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -83,9 +86,11 @@ Types<a class="headerlink" href="#types" title="Permalink to this headline">¶</
 
 <span class="c"># lists</span>
 <span class="n">l</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="s">&#39;a&#39;</span><span class="p">]</span>
+<span class="n">l</span> <span class="o">=</span> <span class="nb">list</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="s">&#39;a&#39;</span><span class="p">])</span>
 
 <span class="c"># tuple</span>
 <span class="n">t</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="s">&#39;a&#39;</span><span class="p">)</span>
+<span class="n">t</span> <span class="o">=</span> <span class="nb">tuple</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="s">&#39;a&#39;</span><span class="p">])</span>
 
 <span class="c"># set</span>
 <span class="n">s</span> <span class="o">=</span> <span class="nb">set</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">])</span>
@@ -195,16 +200,20 @@ Classes<a class="headerlink" href="#classes" title="Permalink to this headline">
 <p>
 Permet de définir un objet ayant un comportement qu&#8217; on lui assigne</p>
 <div class="highlight-python">
-<div class="highlight"><pre><span class="k">class</span> <span class="nc">Voiture</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
+<div class="highlight"><pre><span class="k">class</span> <span class="nc">Personnage</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
 
-    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">marque</span><span class="p">):</span>
-        <span class="bp">self</span><span class="o">.</span><span class="n">marque</span> <span class="o">=</span> <span class="n">marque</span>
+    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="nb">type</span><span class="p">,</span> <span class="n">force</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">type</span> <span class="o">=</span> <span class="nb">type</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">force</span> <span class="o">=</span> <span class="n">force</span>
 
-    <span class="k">def</span> <span class="nf">roule</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="s">&#39;Ma voiture de marque </span><span class="si">%s</span><span class="s"> roule&#39;</span> <span class="o">%</span> <span class="bp">self</span><span class="o">.</span><span class="n">marque</span>
+    <span class="k">def</span> <span class="nf">attaque</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&quot;je suis un </span><span class="si">%s</span><span class="s"> et je tape avec une force de </span><span class="si">%s</span><span class="s">&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">type</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">force</span><span class="p">))</span>
 
-<span class="n">la_valeureuse</span> <span class="o">=</span> <span class="n">Voiture</span><span class="p">(</span><span class="s">&#39;Citroen&#39;</span><span class="p">)</span>
-<span class="k">print</span><span class="p">(</span><span class="n">la_valeureuse</span><span class="o">.</span><span class="n">roule</span><span class="p">())</span>
+<span class="n">merlin</span> <span class="o">=</span> <span class="n">Personnage</span><span class="p">(</span><span class="s">&#39;Magicien&#39;</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+<span class="n">merlin</span><span class="o">.</span><span class="n">attaque</span><span class="p">()</span>
+
+<span class="n">denver</span> <span class="o">=</span> <span class="n">Personnage</span><span class="p">(</span><span class="s">&#39;dino&#39;</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+<span class="n">denver</span><span class="o">.</span><span class="n">attaque</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
