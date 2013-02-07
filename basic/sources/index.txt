@@ -2,7 +2,7 @@
 Les bases de python
 =======================
 
-http://github.com/AFPy/formations/
+Les slides sont en ligne ici: http://afpy.github.com/formations/
 
 
 2 vs 3
