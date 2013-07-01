@@ -24,6 +24,14 @@ Usefull links:
 
     https://twitter.com/gawel_/afpy
 
+Books:
+
+    http://learnxinyminutes.com/docs/python/
+
+    http://learnpythonthehardway.org/
+
+    http://pythonbooks.revolunet.com/
+
 Irc:
 
     irc://irc.freenode.net/python-fr
